@@ -1,0 +1,10 @@
+target/
+.project
+project/target/
+project/**/target/
+Day2-outline.txt.swp
+UsingMethods.scala.swp
+.cache
+.classpath
+bin/
+*.swp
