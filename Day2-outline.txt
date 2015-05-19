@@ -1,0 +1,79 @@
+Learning about SBT (Simple Build Tool) ✓
+http://www.scala-sbt.org/download.html
+
+About Methods 
+   - Right associative colon ✓
+About Constructors 
+  - Main Constructor ✓
+  - Auxiliary Constructors ✓
+About Parent Classes
+   - Only extends from one class
+   - About Polymorphism
+   - Abstract Classes
+About Apply
+About Options
+    - Introduction to Options
+    - Extracting out the value
+       - get
+       - getOrElse
+       - isEmpty, nonEmpty
+       - pattern matching
+About Objects
+       - singleton
+       - companion objects
+          - shared content
+          - access to private class information
+          - as a factory
+       - creating the main method
+About Generic Types 
+About Tuples
+          - creating tuples
+          - accessing tuple elements
+          - mixed type tuples
+          - swapping tuples
+About Higher Order Functions
+          - creating higher order function is different ways
+          - closures
+          - function returning another function
+          - function taking in another function
+          - currying function
+          - currying methods
+About Lists
+          - two ways to create a list
+          - head and tail, init and last
+          - accessing by position
+          - removing elements
+          - map 
+          - filter, filterNot
+          - foreach
+          - flatMap
+          - foldLeft, foldRight
+          - reduceLeft, reduceRight
+          - zip
+          - zipWithIndex
+          - zipAll
+About Maps
+          - creating maps
+          - adding to maps
+          - iterating maps
+          - creating with duplicate values
+          - mutable maps
+          - removing elements
+          - get vs. apply
+          - map equivalency regardless of order
+About Sets
+           - creating sets
+           - adding to sets
+           - removing a single element
+           - removing a single element that is not there
+           - removing multiple elements
+           - union
+           - intersection
+           - mutable sets
+           - set equivalency regardless of order
+About Converting Collections
+About Strings
+About Ranges
+                    
+          
+           
