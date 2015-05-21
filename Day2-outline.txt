@@ -7,37 +7,37 @@ About Constructors
   - Main Constructor ✓
   - Auxiliary Constructors ✓
 About Parent Classes
-   - Only extends from one class
-   - About Polymorphism
-   - Abstract Classes
-About Apply
-About Options
-    - Introduction to Options
-    - Extracting out the value
-       - get
-       - getOrElse
-       - isEmpty, nonEmpty
-       - pattern matching
+   - Only extends from one class ✓
+   - About Polymorphism ✓
+   - Abstract Classes ✓
+About Apply ✓
 About Objects
-       - singleton
-       - companion objects
-          - shared content
-          - access to private class information
-          - as a factory
-       - creating the main method
+       - singleton ✓
+       - companion objects ✓
+          - shared content ✓
+          - access to private class information ✓
+          - as a factory ✓
+       - creating the main method ✓
+About Options
+    - Introduction to Options ✓
+    - Extracting out the value ✓
+       - get ✓
+       - getOrElse ✓
+       - isEmpty, nonEmpty
+       - pattern matching ✓
 About Generic Types 
-About Tuples
-          - creating tuples
-          - accessing tuple elements
-          - mixed type tuples
-          - swapping tuples
+About Tuples ✓
+          - creating tuples ✓
+          - accessing tuple elements ✓
+          - mixed type tuples ✓
+          - swapping tuples ✓
 About Higher Order Functions
-          - creating higher order function is different ways
-          - closures
-          - function returning another function
-          - function taking in another function
-          - currying function
-          - currying methods
+          - creating higher order function is different ways ✓
+          - closures ✓
+          - function returning another function ✓
+          - function taking in another function ✓
+          - currying function ✓
+          - currying methods ✓
 About Lists
           - two ways to create a list
           - head and tail, init and last
@@ -74,6 +74,4 @@ About Sets
 About Converting Collections
 About Strings
 About Ranges
-                    
-          
-           
+About PartiallyAppliedFunctions
